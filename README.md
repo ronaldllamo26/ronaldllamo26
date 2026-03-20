@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd" width="150" style="border-radius:50%">
 </p>
 
-<h1 align="center">Ronald Llamo (SynTuxz)</h1>
+<h1 align="center">(SynTuxz)</h1>
 
 <p align="center">
 Full Stack Developer | UI/UX Focused | System Builder  
