@@ -89,4 +89,4 @@ I am currently focused on improving my skills for my upcoming capstone project a
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ronaldllamo26&label=Profile%20Views">
 </p>
-![12f](https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd)
+
