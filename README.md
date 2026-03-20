@@ -1,6 +1,6 @@
 <!-- 🔥 HEADER WITH PROFILE PIC -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ronald+Llamo;Full+Stack+Developer;Building+Modern+Web+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Syn+Tuxz;Web+Developer;Building+Modern+Web+Systems&center=true&width=500&height=45">
 </p>
 
 <p align="center">
