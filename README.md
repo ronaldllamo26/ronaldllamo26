@@ -10,7 +10,7 @@
 <h1 align="center">(SynTuxz)</h1>
 
 <p align="center">
-Full Stack Developer | UI/UX Focused | System Builder  
+Web Developer | UI/UX Focused | System Builder  
 </p>
 
 ---
