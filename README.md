@@ -20,8 +20,8 @@ I love building systems and learning new technologies 🚀
 
 ### 🌐 Connect with me
 <p>
-<a href="https://facebook.com/yourlink">Facebook</a> |
-<a href="#">Portfolio</a>
+<a href="https://www.facebook.com/ronald.llamo.2024/">Facebook</a> |
+<a href="https://stuxzweb.netlify.app/">Portfolio</a>
 </p>
 
 ---
