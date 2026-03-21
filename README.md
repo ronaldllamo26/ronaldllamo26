@@ -50,13 +50,25 @@ I am a passionate **Web Site Developer** with 1.5 years of hands-on experience i
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics & Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=radical&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=radical" width="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ronaldllamo26&theme=radical&no-bg=true&margin-w=15" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=radical&hide_progress=false" width="300" />
 </p>
 
 ---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaldllamo26&theme=radical&bg_color=1a1b27&hide_border=true" width="800" />
+</p>
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
