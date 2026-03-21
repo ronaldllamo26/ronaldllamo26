@@ -19,7 +19,7 @@
 ---
 
 ## 💼 Professional Summary
-I am a passionate **Full Stack Developer** with 1.5 years of hands-on experience in building modern web applications, dashboards, and system-based solutions. I specialize in creating clean UI/UX designs while maintaining strong backend logic and security. Currently focusing on **Capstone Research** and real-world system implementations.
+I am a passionate **Web Site Developer** with 1.5 years of hands-on experience in building modern web applications, dashboards, and system-based solutions. I specialize in creating clean UI/UX designs while maintaining strong backend logic and security. Currently focusing on **Capstone Research** and real-world system implementations.
 
 ---
 
