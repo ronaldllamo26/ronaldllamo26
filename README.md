@@ -66,8 +66,8 @@ I am a passionate **Full-Stack Web Developer** with 1.5 years of hands-on experi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=radical&hide_progress=false" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=radical&hide_progress=false" height="195" />
 </p>
 
 ---
