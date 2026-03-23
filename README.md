@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Syn+Tuxz;Web+Developer;Building+Modern+Web+Systems;BSIT+Student+@+BCP&center=true&width=500&height=45&color=F7DF1E">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Syn+Tuxz;Full-Stack+Laravel+Developer;Building+Modern+Web+Systems;BSIT+Student+@+BCP&center=true&width=500&height=45&color=F7DF1E">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <h1 align="center">👋 I'm Ronald Llamo (SynTuxz)</h1>
 
 <p align="center">
-  <strong>Web Developer | UI/UX Focused | Full-Stack Aspirant</strong>
+  <strong>Full-Stack Developer | UI/UX Focused | Laravel Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -19,40 +19,44 @@
 ---
 
 ## 💼 Professional Summary
-I am a passionate **Web Site Developer** with 1.5 years of hands-on experience in building modern web applications, dashboards, and system-based solutions. I specialize in creating clean UI/UX designs while maintaining strong backend logic and security. Currently focusing on **Capstone Research** and real-world system implementations.
+I am a passionate **Full-Stack Web Developer** with 1.5 years of hands-on experience in building modern web applications, dashboards, and system-based solutions. I specialize in crafting clean UI/UX designs (Glassmorphism & Dark Mode) while maintaining robust backend logic using **Laravel**. Currently focusing on **Capstone Research** and scalable system implementations.
 
 ---
 
 ## 🛠 Tech Stack & Tools
+
+### **Frontend & Design**
 <p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
+### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/xampp-%23FB8C00.svg?style=for-the-badge&logo=xampp&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### **Workflow & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/xampp-%23FB8C00.svg?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ---
 
 ## 🌐 Featured Projects
-| Project Name | Tech Stack | Link |
+| Project Name | Tech Stack | Status |
 | :--- | :--- | :--- |
-| **🐾 PetMalu** | PHP, MySQL, CSS | [View Live](https://petmalu.vercel.app/) |
-| **🛒 CampusThrift** | JS, HTML, CSS | [View Live](https://c-thrift.netlify.app/) |
-| **🖥️ Barax Cafe** | HTML, Bootstrap | [View Live](https://baraxcybercafe.netlify.app/) |
-| **🚛 Blue Energy** | PHP, Bootstrap | [View Live](https://blue-energyph.netlify.app/) |
-
----
+| **🚀 Laravel CRUD** | Laravel, MySQL, Bootstrap | [View Repo](https://github.com/ronaldllamo26/CRUD) |
+| **🐾 PetMalu** | PHP, MySQL, CSS | [Live Demo](https://petmalu.vercel.app/) |
+| **🛒 CampusThrift** | JS, HTML, CSS | [Live Demo](https://c-thrift.netlify.app/) |
+| **🖥️ Barax Cafe** | HTML, Bootstrap | [Live Demo](https://baraxcybercafe.netlify.app/) |
 
 ---
 
@@ -63,7 +67,6 @@ I am a passionate **Web Site Developer** with 1.5 years of hands-on experience i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="400" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=radical&hide_progress=false" width="300" />
 </p>
 
