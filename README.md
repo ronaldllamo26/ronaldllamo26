@@ -84,7 +84,7 @@ const SynTuxz = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&border_radius=12" width="420"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12" width="310"/>
 
 <br/><br/>
