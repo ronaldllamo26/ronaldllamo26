@@ -95,7 +95,7 @@ const SynTuxz = {
 
 ---
 
-## 🏆 Trophies
+
 
 <div align="center">
 
