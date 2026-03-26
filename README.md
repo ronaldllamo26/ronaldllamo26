@@ -20,7 +20,7 @@ const developer = {
   alias:       "SynTuxz",
   location:    "Philippines",
   role:        "Web Developer",
-  education:   "BSIT @ Batangas College of the Philippines",
+  education:   "BSIT @ Bestlink College of the Philippines",
   stack:       ["PHP", "JavaScript", "MySQL", "Bootstrap"],
   focus:       ["Clean UI/UX", "Full-Stack Dev", "Capstone Research"],
   currentGoal: "Ship production-ready systems that actually matter",
