@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ronald%20Llamo&fontSize=65&fontAlignY=38&desc=SynTuxz%20%E2%80%94%20Web%20Developer%20%7C%20UI%2FUX%20Craftsman&descAlignY=58&animation=fadeIn&fontColor=fff&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+Building+production-ready+systems+%F0%9F%9A%80;%3E+Obsessed+with+clean+UI+%26+UX+%F0%9F%8E%A8;%3E+Full-Stack+Aspirant+grinding+daily+%F0%9F%94%A5;%3E+BSIT+%40+BCP+%E2%80%94+capstone+mode+ON+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+production-ready+systems;%3E+obsessed+with+clean+UI+%26+UX;%3E+full-stack+aspirant%2C+grinding+daily;%3E+BSIT+%40+BCP+--+capstone+mode+on" alt="Typing SVG" />
 
 </div>
 
@@ -18,13 +18,13 @@
 const developer = {
   name:        "Ronald Llamo",
   alias:       "SynTuxz",
-  location:    "Philippines 🇵🇭",
+  location:    "Philippines",
   role:        "Web Developer",
   education:   "BSIT @ Batangas College of the Philippines",
   stack:       ["PHP", "JavaScript", "MySQL", "Bootstrap"],
   focus:       ["Clean UI/UX", "Full-Stack Dev", "Capstone Research"],
-  currentGoal: "Ship production-ready systems that actually matter 🚀",
-  funFact:     "I debug better at 2AM ☕",
+  currentGoal: "Ship production-ready systems that actually matter",
+  funFact:     "I debug better at 2AM",
 };
 ```
 
@@ -37,7 +37,7 @@ const developer = {
 
 ---
 
-## ⚡ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ const developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**[ Tools & Workflow ]**
+**[ Tools ]**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -65,24 +65,24 @@ const developer = {
 
 ---
 
-## 🌐 Featured Projects
+## Projects
 
-> Things I've built that actually run in production.
+> stuff i've built that actually runs in production
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| 🐾 **[PetMalu](https://petmalu.vercel.app/)** | Pet marketplace & adoption platform with full listing system | `PHP` `MySQL` `CSS` | [![Live](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logo=vercel&logoColor=white)](https://petmalu.vercel.app/) |
-| 🛒 **[CampusThrift](https://c-thrift.netlify.app/)** | Buy-and-sell web app built for students | `JavaScript` `HTML` `CSS` | [![Live](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logo=netlify&logoColor=white)](https://c-thrift.netlify.app/) |
-| 🖥️ **[Barax Cafe](https://baraxcybercafe.netlify.app/)** | Sleek landing page for a cyber café business | `HTML` `Bootstrap` | [![Live](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logo=netlify&logoColor=white)](https://baraxcybercafe.netlify.app/) |
-| 🚛 **[Blue Energy](https://blue-energyph.netlify.app/)** | Corporate site for a logistics & trucking company | `PHP` `Bootstrap` | [![Live](https://img.shields.io/badge/LIVE-00C851?style=flat-square&logo=netlify&logoColor=white)](https://blue-energyph.netlify.app/) |
+| Project | Description | Stack | Link |
+|:--------|:------------|:------|:----:|
+| **[PetMalu](https://petmalu.vercel.app/)** | Pet marketplace & adoption platform | `PHP` `MySQL` `CSS` | [live](https://petmalu.vercel.app/) |
+| **[CampusThrift](https://c-thrift.netlify.app/)** | Buy-and-sell web app for students | `JavaScript` `HTML` `CSS` | [live](https://c-thrift.netlify.app/) |
+| **[Barax Cafe](https://baraxcybercafe.netlify.app/)** | Landing page for a cyber cafe | `HTML` `Bootstrap` | [live](https://baraxcybercafe.netlify.app/) |
+| **[Blue Energy](https://blue-energyph.netlify.app/)** | Site for a logistics & trucking company | `PHP` `Bootstrap` | [live](https://blue-energyph.netlify.app/) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,7 +97,7 @@ const developer = {
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -107,7 +107,7 @@ const developer = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -117,7 +117,7 @@ const developer = {
 
 ---
 
-## 🐍 Snake be eating my commits
+## snake eating my commits
 
 <div align="center">
 
@@ -129,7 +129,7 @@ const developer = {
 
 <div align="center">
 
-*"Write code that you'd be proud to show someone at 3AM."*
+*"write code that you'd be proud to show someone at 3am."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
