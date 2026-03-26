@@ -97,17 +97,7 @@ const developer = {
 
 ---
 
-## Profile Summary
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
-
-</div>
-
----
 
 ## Contribution Graph
 
