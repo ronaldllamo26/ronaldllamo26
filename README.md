@@ -8,7 +8,9 @@
 
 ---
 
-<img align="right" src="https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd" width="140" style="border-radius:50%; margin-top: 10px;"/>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd" width="130" style="border-radius:50%;"/>
+</div>
 
 ## `whoami`
 
