@@ -20,7 +20,7 @@ const developer = {
   alias:       "SynTuxz",
   location:    "Philippines",
   role:        "Web Developer",
-  education:   "BSIT @ Bestlink College of the Philippines",
+  education:   "BSIT @ Batangas College of the Philippines",
   stack:       ["PHP", "JavaScript", "MySQL", "Bootstrap"],
   focus:       ["Clean UI/UX", "Full-Stack Dev", "Capstone Research"],
   currentGoal: "Ship production-ready systems that actually matter",
@@ -97,11 +97,13 @@ const developer = {
 
 ---
 
-## Trophies
+## Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronaldllamo26&theme=tokyonight&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldllamo26&theme=tokyo_night" width="32%"/>
 
 </div>
 
