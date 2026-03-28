@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ronald%20Llamo&fontSize=65&fontAlignY=38&desc=SynTuxz%20%E2%80%94%20Web%20Developer%20%7C%20UI%2FUX%20&descAlignY=58&animation=fadeIn&fontColor=fff&descSize=18" width="100%"/>
 
