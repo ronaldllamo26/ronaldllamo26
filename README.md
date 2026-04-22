@@ -107,7 +107,7 @@ const developer = {
 
 </div>
 
---- HAHAAHAHAHA
+--- 
 
 ## snake eating my commits
 
