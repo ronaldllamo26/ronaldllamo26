@@ -13,7 +13,7 @@
 </div>
 
 ## `whoami`
-hahahaha
+
 ```typescript
 const developer = {
   name:        "Ronald Llamo",
