@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+production-ready+systems;%3E+obsessed+with+clean+UI+%26+UX;%3E+full-stack+aspirant%2C+grinding+daily;%3E+BSIT+%40+BCP+--+capstone+mode+on" alt="Typing SVG" />
 
 </div>
-
+TOL
 ---
 
 <div align="center">
