@@ -86,14 +86,25 @@ const developer = {
 
 <div align="center">
 
-<!-- Metrics Card: Activity Overview -->
-<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&theme=tokyonight" width="100%" alt="GitHub Metrics"/>
+## GitHub Performance
+
+<div align="center">
+
+<!-- GitHub Trophies: Very Stable -->
+<img src="https://github-profile-trophy.vercel.app/?username=ronaldllamo26&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="Trophies"/>
+
+<br/>
+
+<!-- Optimized Stats Cards with Cache Busters -->
+<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&cache_seconds=1800" width="420" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12&cache_seconds=1800" width="310" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Corrected Stable Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronaldllamo26&theme=tokyonight" width="400" alt="Stats Card"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldllamo26&theme=tokyonight" width="310" alt="Langs Card"/>
+<!-- Stable Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="500" alt="Streak Stats"/>
+
+</div>
 
 </div>
 
