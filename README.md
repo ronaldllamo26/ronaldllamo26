@@ -86,7 +86,8 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats"/>
+<!-- Simplified Stats Card for better Stability -->
+<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" width="420" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12" width="310" alt="Top Languages"/>
 
 <br/><br/>
