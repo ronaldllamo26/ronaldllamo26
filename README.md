@@ -90,19 +90,14 @@ const developer = {
 
 <div align="center">
 
-<!-- GitHub Trophies: Very Stable -->
-<img src="https://github-profile-trophy.vercel.app/?username=ronaldllamo26&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="Trophies"/>
-
-<br/>
-
-<!-- Optimized Stats Cards with Cache Busters -->
-<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&cache_seconds=1800" width="420" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12&cache_seconds=1800" width="310" alt="Top Languages"/>
+<!-- God Tier Metrics Dashboard: Very Stable -->
+<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&habits=1&languages=1&languages.limit=8&theme=tokyonight&config.timezone=Asia%2FManila" width="100%" alt="GitHub Metrics"/>
 
 <br/><br/>
 
-<!-- Stable Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" width="500" alt="Streak Stats"/>
+<!-- Stats & Streak with Unique Cache Busters -->
+<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&cache_seconds=1800&v=2" width="420" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&cache_seconds=1800&v=2" width="500" alt="Streak Stats"/>
 
 </div>
 
