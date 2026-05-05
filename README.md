@@ -86,13 +86,13 @@ const developer = {
 
 <div align="center">
 
-<!-- Metrics Card: Combined Stats & Activity -->
-<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.sections=most-used&theme=tokyonight" width="100%" alt="GitHub Metrics"/>
+<!-- Metrics Card: Activity Overview -->
+<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&theme=tokyonight" width="100%" alt="GitHub Metrics"/>
 
 <br/><br/>
 
-<!-- Stable Summary Cards as Fallback -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldllamo26&theme=tokyonight" width="400" alt="Stats Card"/>
+<!-- Corrected Stable Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronaldllamo26&theme=tokyonight" width="400" alt="Stats Card"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldllamo26&theme=tokyonight" width="310" alt="Langs Card"/>
 
 </div>
