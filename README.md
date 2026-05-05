@@ -1,17 +1,9 @@
 <div align="center">
 
+<!-- Header Image: Ronald Llamo -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ronald%20Llamo&fontSize=65&fontAlignY=38&desc=SynTuxz%20%E2%80%94%20Web%20Developer%20%7C%20UI%2FUX%20&descAlignY=58&animation=fadeIn&fontColor=fff&descSize=18" width="100%"/>
 
-
-
-</div>
-
-<div align="center">
-
-<!-- Header Image: Fixed and Optimized -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ronald%20Llamo&fontSize=65&fontAlignY=38&desc=SynTuxz%20%E2%80%94%20Web%20Developer%20%7C%20UI%2FUX%20&descAlignY=58&animation=fadeIn&fontColor=fff&descSize=18" width="100%"/>
-
-<!-- Typing SVG: Clean & Sharp -->
+<!-- Typing SVG: Professional & Clean -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+production-ready+systems;%3E+obsessed+with+clean+UI+%26+UX;%3E+full-stack+aspirant%2C+grinding+daily;%3E+BSIT+%40+BCP+--+capstone+mode+on" alt="Typing SVG" />
 
 </div>
@@ -35,15 +27,14 @@ const developer = {
   currentGoal: "Ship production-ready systems that actually matter",
   funFact:     "I debug better at 2AM",
 };
-
 ```
 
-<p>
+<div align="center">
   <a href="mailto:llamo.ronald.estiler@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ronald-llamo-088102379/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/884638862805200950"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ronaldllamo26&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
@@ -52,39 +43,38 @@ const developer = {
 <div align="center">
 
 **[ Frontend ]**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **[ Backend & Database ]**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 **[ Tools ]**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
 ## Projects
-
 > stuff i've built that actually runs in production
 
 <div align="center">
 
 | Project | Description | Stack | Link |
 |:--------|:------------|:------|:----:|
+| **[QueueSense](https://github.com/ronaldllamo26/LMS)** | Real-time Student Queue Management System | `PHP` `MySQL` `JS` | [repo](https://github.com/ronaldllamo26/LMS) |
 | **[PetMalu](https://petmalu.vercel.app/)** | Pet marketplace & adoption platform | `PHP` `MySQL` `CSS` | [live](https://petmalu.vercel.app/) |
-| **[CampusThrift](https://c-thrift.netlify.app/)** | Buy-and-sell web app for students | `JavaScript` `HTML` `CSS` | [live](https://c-thrift.netlify.app/) |
+| **[CampusThrift](https://c-thrift.netlify.app/)** | Buy-and-sell web app for students | `JavaScript` `HTML` | [live](https://c-thrift.netlify.app/) |
 | **[Barax Cafe](https://baraxcybercafe.netlify.app/)** | Landing page for a cyber cafe | `HTML` `Bootstrap` | [live](https://baraxcybercafe.netlify.app/) |
 | **[Blue Energy](https://blue-energyph.netlify.app/)** | Site for a logistics & trucking company | `PHP` `Bootstrap` | [live](https://blue-energyph.netlify.app/) |
 
@@ -92,38 +82,37 @@ const developer = {
 
 ---
 
-## GitHub Stats
+## GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12" width="310"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ronaldllamo26&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldllamo26&layout=compact&theme=tokyonight&border_radius=12" width="310" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="500" alt="Streak Stats"/>
 
 </div>
 
 ---
 
-
-
 ## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaldllamo26&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&area_color=A78BFA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronaldllamo26&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&area_color=A78BFA" width="100%" alt="Activity Graph"/>
 
 </div>
 
 --- 
 
-## snake eating my commits
+## snake eating my commits 🐍
 
 <div align="center">
 
-<img src="https://github.com/ronaldllamo26/ronaldllamo26/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<!-- Snake Animation: FIXED RAW URL -->
+<img src="https://raw.githubusercontent.com/ronaldllamo26/ronaldllamo26/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
