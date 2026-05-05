@@ -86,12 +86,14 @@ const developer = {
 
 <div align="center">
 
-<!-- Metrics Card: More Stable & Detailed -->
-<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.recent.load=300&languages.recent.days=14&languages.recent.buffers=1&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.colors=github&languages.skipped=&languages.ignored=&config.timezone=Asia%2FManila&config.order=languages&theme=tokyonight" width="100%" alt="GitHub Metrics"/>
+<!-- Metrics Card: Combined Stats & Activity -->
+<img src="https://metrics.lecoq.io/ronaldllamo26?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=8&languages.sections=most-used&theme=tokyonight" width="100%" alt="GitHub Metrics"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldllamo26&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="500" alt="Streak Stats"/>
+<!-- Stable Summary Cards as Fallback -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldllamo26&theme=tokyonight" width="400" alt="Stats Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldllamo26&theme=tokyonight" width="310" alt="Langs Card"/>
 
 </div>
 
