@@ -7,7 +7,18 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd" width="130" style="border-radius:50%;"/>
+
+<!-- Header Image: Fixed and Optimized -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ronald%20Llamo&fontSize=65&fontAlignY=38&desc=SynTuxz%20%E2%80%94%20Web%20Developer%20%7C%20UI%2FUX%20&descAlignY=58&animation=fadeIn&fontColor=fff&descSize=18" width="100%"/>
+
+<!-- Typing SVG: Clean & Sharp -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+production-ready+systems;%3E+obsessed+with+clean+UI+%26+UX;%3E+full-stack+aspirant%2C+grinding+daily;%3E+BSIT+%40+BCP+--+capstone+mode+on" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+<!-- Profile Avatar -->
+<img src="https://github.com/user-attachments/assets/26a3e9db-0443-4817-8a65-4d2f34c9b9fd" width="130" style="border-radius:50%; border: 3px solid #302b63;"/>
 </div>
 
 ## `whoami`
@@ -19,11 +30,12 @@ const developer = {
   location:    "Philippines",
   role:        "Web Developer",
   education:   "BSIT @ Bestlink College of the Philippines",
-  stack:       ["PHP", "JavaScript", "MySQL", "Bootstrap"],
+  stack:       ["PHP", "JavaScript", "MySQL", "Bootstrap", "Tailwind"],
   focus:       ["Clean UI/UX", "Full-Stack Dev", "Capstone Research"],
   currentGoal: "Ship production-ready systems that actually matter",
   funFact:     "I debug better at 2AM",
 };
+
 ```
 
 <p>
